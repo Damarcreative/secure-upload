@@ -23,3 +23,5 @@ This Discord bot was developed to automatically delete adult images using Image 
 ## Contribution
 Please contribute by opening an issue or submitting a pull request. We really appreciate your contribution!
 
+## License
+MIT License
