@@ -1,0 +1,6 @@
+discord
+transformers
+torch
+requests
+Pillow
+torchvision
