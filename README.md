@@ -1,6 +1,6 @@
 # secure-upload
 
-Remove adult content in discord channels better with Artificial Intelligence
+Remove adult content in discord channels better with Artificial Intelligence.
 
 ## Description
 This Discord bot was developed to automatically delete adult images using Image Classification AI technology. This bot uses the NSFW Filterization-DecentScan model from [Hugging Face](https://huggingface.co/DamarJati/NSFW-Filterization-DecentScan) to classify images.
