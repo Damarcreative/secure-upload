@@ -35,4 +35,4 @@ def analyze_image(image_url):
 
 # bot.run("YOUR_BOT_TOKEN")
 
-bot.run("MTEyMzEyMjc5NjEyMjM0NTU1NA.GZ1RgS.LTopHhfhG6NSHFzG0cJ5XQm_1apoJCRBXpjKDw")
+bot.run("API_KEY")
