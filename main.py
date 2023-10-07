@@ -7,7 +7,7 @@ intents.message_content = True
 
 bot = commands.Bot(command_prefix="!", intents=intents)
 
-pipe = pipeline("image-classification", model="DamarJati/NSFW-filter-DecentScan")
+pipe = pipeline("image-classification", model="model")
 
 @bot.event
 async def on_ready():
